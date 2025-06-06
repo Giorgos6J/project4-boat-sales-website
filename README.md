@@ -26,14 +26,7 @@ This project is a PHP/MySQL web application for displaying and managing data rel
 4. Make sure the credentials in `header.php` match your database.
 5. Open any of the PHP files in a web browser (e.g., `select1.php`) to view the results.
 
-## 📸 Online Demo
 
-🔗 [Live Example](https://ulotrichous-meet.000webhostapp.com/public_html/select3.php)
-
-## ⚠️ Security Notice
-
-- **Do NOT upload sensitive credential files (like `PASSWORDS FOR WEBSITE.txt`) to public repositories.**
-- Use `.gitignore` to exclude such files from version control.
 
 ## 👤 Author
 
